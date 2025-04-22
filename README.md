@@ -1,8 +1,6 @@
 # Restaurant- Management- Data- Analysis
 ![image](https://github.com/user-attachments/assets/4610e6e3-370c-4a33-83fb-198f6e6509ad)
 
-![image]![Screenshot 2025-02-07 173117](https://github.com/user-attachments/assets/a429b2f1-3044-4448-b969-8aa07aa77682)
-
 **Title:** Restaurant Management Data Analysis
 
 **Subtitle** Performance and Profitability Insights
@@ -22,6 +20,10 @@ Initially, there were null values in the item_id column because the data was sto
 3.  The rush hours analysis indicated that the restaurant experiences peak orders during 12, 1, 4, 5, 6 PM. 
 4.  The most expensive dish on the menu is Shrimp Scampi and The least expensive dish is Edamame . 
 5.  The most popular category is Italyan and the least popular category is American food.
+
+# Dashboard 
+![Screenshot 2025-02-07 173117](https://github.com/user-attachments/assets/a429b2f1-3044-4448-b969-8aa07aa77682)
+
 
 # Recommendations
 
